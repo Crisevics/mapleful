@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "autumnity:turkey_piece"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "mapleful:turkey_soup",
+    "count": 1
+  }
+}

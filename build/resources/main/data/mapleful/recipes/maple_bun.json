@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "autumnity:syrup_bottle"
+    },
+    {
+      "item": "mapleful:dough"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "item": "mapleful:maple_bun",
+    "count": 3
+  }
+}

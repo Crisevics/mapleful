@@ -1,0 +1,9 @@
+{
+  "parent": "block/cake_slice4",
+  "textures": {
+    "bottom": "mapleful:block/maple_cake_bottom",
+    "top": "mapleful:block/maple_cake_top",
+    "side": "mapleful:block/maple_cake_side",
+    "inside": "mapleful:block/maple_cake_inner"
+  }
+}

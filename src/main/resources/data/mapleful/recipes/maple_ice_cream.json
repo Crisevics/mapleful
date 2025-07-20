@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "neapolitan:ice_cubes"
+    },
+    {
+      "item": "autumnity:syrup_bottle"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "mapleful:maple_ice_cream",
+    "count": 1
+  }
+}

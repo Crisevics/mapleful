@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    " M ",
+    " I "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:glass_bottle"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "I": {
+      "item": "mapleful:maple_ice_cream"
+    }
+  },
+  "result": {
+    "item": "mapleful:maple_milkshake",
+    "count": 3
+  }
+}

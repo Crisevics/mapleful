@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "autumnity:cooked_turkey_piece"
+    },
+    {
+      "item": "mapleful:maple_leaf"
+    },
+    {
+      "item": "mapleful:maple_leaf"
+    }
+  ],
+  "result": {
+    "item": "mapleful:turkey_sandwich",
+    "count": 1
+  }
+}

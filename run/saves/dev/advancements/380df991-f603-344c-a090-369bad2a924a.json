@@ -1,0 +1,263 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-13 16:20:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-07-13 16:20:35 -0400"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-13 16:37:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-13 20:25:14 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/turkey_piece_from_turkey": {
+    "criteria": {
+      "has_turkey": "2025-07-13 20:28:47 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/cooked_turkey": {
+    "criteria": {
+      "has_turkey": "2025-07-13 20:28:47 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/cooked_turkey_from_smoking": {
+    "criteria": {
+      "has_turkey": "2025-07-13 20:28:47 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/cooked_turkey_from_campfire_cooking": {
+    "criteria": {
+      "has_turkey": "2025-07-13 20:28:47 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/cooked_turkey_piece_from_cooked_turkey": {
+    "criteria": {
+      "has_cooked_turkey": "2025-07-13 20:28:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-15 20:17:27 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/cooked_turkey_piece_from_campfire_cooking": {
+    "criteria": {
+      "has_turkey_piece": "2025-07-15 20:17:43 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/cooked_turkey_piece_from_smoking": {
+    "criteria": {
+      "has_turkey_piece": "2025-07-15 20:17:43 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/cooked_turkey_piece": {
+    "criteria": {
+      "has_turkey_piece": "2025-07-15 20:17:43 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/pumpkin_bread": {
+    "criteria": {
+      "has_syrup_bottle": "2025-07-15 20:17:48 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/pancake": {
+    "criteria": {
+      "has_syrup_bottle": "2025-07-15 20:17:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-15 20:18:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-15 20:19:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-15 20:19:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-15 20:19:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-15 20:20:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-15 20:22:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-15 20:22:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-15 20:22:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-15 20:22:53 -0400"
+    },
+    "done": true
+  },
+  "autumnity:recipes/decorations/orange_maple_leaves_from_orange_maple_leaf_pile": {
+    "criteria": {
+      "has_orange_maple_leaf_pile": "2025-07-16 15:25:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "autumnity:cooked_turkey_piece": "2025-07-16 15:39:59 -0400",
+      "bread": "2025-07-16 15:40:18 -0400",
+      "autumnity:turkey_piece": "2025-07-16 15:40:23 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

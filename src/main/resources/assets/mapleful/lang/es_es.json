@@ -1,0 +1,16 @@
+{
+  "effect.mapleful.autumn_rush": "Prisa otoñal",
+  "item.mapleful.maple_ice_cream": "Helado de Maple",
+  "item.mapleful.maple_milkshake": "Batido de Maple",
+  "itemGroup.mapleful": "Mapleful",
+  "block.mapleful.maple_ice_cream_block": "Bloque de helado de Maple",
+  "item.mapleful.maple_ice_cream_block": "Bloque de helado de Maple",
+  "block.mapleful.maple_cake": "Pastel de Maple",
+  "item.mapleful.maple_cake": "Pastel de Maple",
+  "item.mapleful.turkey_soup": "Sopa de Pavo",
+  "item.mapleful.turkey_sandwich": "Sandwich de Pavo",
+  "item.mapleful.dough": "Masa",
+  "item.mapleful.maple_bun": "Bollo de Maple",
+  "item.mapleful.maple_leaf": "Hoja de Maple",
+  "effect.mapleful.autumn_rush.description": "Provee gran velocidad por poco tiempo"
+}

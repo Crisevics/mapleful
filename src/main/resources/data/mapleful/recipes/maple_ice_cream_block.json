@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SIS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:snow_block"
+    },
+    "I": {
+      "item": "mapleful:maple_ice_cream"
+    }
+  },
+  "result": {
+    "item": "mapleful:maple_ice_cream_block",
+    "count": 8
+  }
+}

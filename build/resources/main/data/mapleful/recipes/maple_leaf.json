@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "autumnity:orange_maple_leaf_pile"
+    }
+  ],
+  "result": {
+    "item": "mapleful:maple_leaf",
+    "count": 3
+  }
+}

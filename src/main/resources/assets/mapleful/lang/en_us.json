@@ -1,0 +1,16 @@
+{
+  "effect.mapleful.autumn_rush": "Autumn Rush",
+  "item.mapleful.maple_ice_cream": "Maple Ice Cream",
+  "item.mapleful.maple_milkshake": "Maple Milkshake",
+  "itemGroup.mapleful": "Mapleful",
+  "block.mapleful.maple_ice_cream_block": "Maple Ice Cream Block",
+  "item.mapleful.maple_ice_cream_block": "Maple Ice Cream Block",
+  "block.mapleful.maple_cake": "Maple Cake",
+  "item.mapleful.maple_cake": "Maple Cake",
+  "item.mapleful.turkey_soup": "Turkey Soup",
+  "item.mapleful.turkey_sandwich": "Turkey Sandwich",
+  "item.mapleful.dough": "Dough",
+  "item.mapleful.maple_bun": "Maple Bun",
+  "item.mapleful.maple_leaf": "Maple Leaf",
+  "effect.mapleful.autumn_rush.description": "Grants incredible speed for a short time"
+}

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapleful.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mapleful.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapleful.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mapleful.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-mapleful.main.iml" filepath="$PROJECT_DIR$/.idea/modules/project-mapleful.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-mapleful.test.iml" filepath="$PROJECT_DIR$/.idea/modules/project-mapleful.test.iml" />
     </modules>
   </component>
 </project>

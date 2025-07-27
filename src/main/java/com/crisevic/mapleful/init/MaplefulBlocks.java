@@ -20,7 +20,6 @@ public class MaplefulBlocks {
     public static final RegistryObject<Block> MAPLE_ICE_CREAM_BLOCK = BLOCKS.register("maple_ice_cream_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.COLOR_BROWN)
-                    .requiresCorrectToolForDrops()
                     .strength(0.2F)
                     .sound(SoundType.SNOW))
     );

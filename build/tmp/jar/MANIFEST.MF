@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Specification-Title: mapleful
 Specification-Vendor: Crisevic
 Specification-Version: 1
-Implementation-Title: mapleful
-Implementation-Version: 1.0.0
+Implementation-Title: project-mapleful
+Implementation-Version: 1.0.1
 Implementation-Vendor: Crisevic
-Implementation-Timestamp: 2025-07-19T21:19:04-0400
+Implementation-Timestamp: 2025-07-27T15:14:41-0400
 

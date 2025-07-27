@@ -38,8 +38,8 @@ public class MaplefulItems {
         MAPLE_ICE_CREAM_BLOCK = MaplefulBlocks.MAPLE_ICE_CREAM_BLOCK_ITEM;
         MAPLE_CAKE_BLOCK = MaplefulBlocks.MAPLE_CAKE_BLOCK_ITEM;
 
-        TURKEY_SOUP = registerFoodItem("turkey_soup", 10, 1.0f, null);
-        TURKEY_SANDWICH = registerFoodItem("turkey_sandwich", 6, 0.8f, null);
+        TURKEY_SOUP = registerFoodItem("turkey_soup", 12, 1.0f, null);
+        TURKEY_SANDWICH = registerFoodItem("turkey_sandwich", 7, 0.8f, null);
         DOUGH = registerSimpleItem("dough");
         MAPLE_BUN = registerFoodItem("maple_bun", 6, 0.8f, null);
         MAPLE_LEAF = registerSimpleItem("maple_leaf");
